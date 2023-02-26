@@ -1,0 +1,1 @@
+Welcome to ATM, Basically it's an ATM project which allows users to create new account, login into existing account or delete account. Further it provides users with general options such as withdraw, deposit or transfer balance from current to saving and vice versa. This project is made using basics concepts of OOPs and Hashmap to store relevant information. Thank You !

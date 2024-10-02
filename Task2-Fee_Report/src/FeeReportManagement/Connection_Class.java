@@ -10,7 +10,7 @@ public class Connection_Class {
     Connection_Class(){
         try{
             Class.forName("com.mysql.cj.jdbc.Driver");
-            con = DriverManager.getConnection("jdbc:mysql://localhost:3306/fee_report","root", "Nrj@2120");
+            con = DriverManager.getConnection("jdbc:mysql://localhost:3306/fee_report","root", "xyz");
             stm = con.createStatement();
         }catch (Exception e){
             e.printStackTrace();
